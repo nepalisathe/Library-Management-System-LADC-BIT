@@ -1,0 +1,7 @@
+File name student.txt holds data of All Students
+File name bk_table.txt holds data of Unique books
+File name starting from bk_001.txt to increasing value of decimals,
+represent files holding record of all copies belonging to a Unique book,
+listed in bk_table.txt
+THE FILE bk_xyz.txt is created automatic each time new book is added,
+to the library record.
